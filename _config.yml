@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Deep Learning"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Course notes for CS-GY 9223/ECE-GY 9123: Deep Learning."
   location         : "NYU Tandon"
   email            :
   links:
