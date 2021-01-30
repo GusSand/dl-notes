@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Deep Learning"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Course notes for CS-GY 9223/ECE-GY 9123: Deep Learning."
+  bio              : "Course notes."
   location         : "NYU Tandon"
   email            :
   links:
