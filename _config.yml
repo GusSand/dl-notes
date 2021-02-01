@@ -275,8 +275,8 @@ defaults:
     values:
       layout: single
       toc: true
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: false
       share: false
       related: true
