@@ -272,7 +272,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-      values:
+    values:
       layout: single
       toc: true
       author_profile: true
