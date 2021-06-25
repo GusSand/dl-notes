@@ -3,10 +3,10 @@ layout: single
 author_profile: true
 ---
 
-Landing page for CS-GY 6953/ECE-GY 7123: Deep Learning.
+# Table of contents
 
 | Week | Topic | Extra Reading |
-| :---         |     :---:      |          ---: |
+| ---:         |     :---:      |          ---: |
 | 1 | [Introduction](/dl-notes/notes/lecture01/)     |     |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |       |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |     |
