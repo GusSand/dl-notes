@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 | Week | Topic | Extra Reading |
-| ---:         |     :---:      |          ---: |
+| ---:         |     :------------------:      |          ---: |
 | 1 | [Introduction](/dl-notes/notes/lecture01/)     |     |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |       |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |     |
