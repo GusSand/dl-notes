@@ -1,4 +1,5 @@
 ---
+title: "Table of contents"
 layout: single
 author_profile: true
 ---
