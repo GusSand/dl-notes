@@ -4,8 +4,6 @@ layout: single
 author_profile: true
 ---
 
-# Table of contents
-
 | Week | Topic | Extra Reading |
 | ---:         |     :---:      |          ---: |
 | 1 | [Introduction](/dl-notes/notes/lecture01/)     |     |
