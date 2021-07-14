@@ -14,8 +14,8 @@ author_profile: true
 | 6 | [Recurrent networks](/dl-notes/notes/lecture06/)      |       |
 | 7 | [Transformers](/dl-notes/notes/lecture07/)     |     |
 | 8 | [NLP applications](/dl-notes/notes/lecture08/)      |       |
-| 9 | [Policy gradients](/dl-notes/notes/lecture09/)     |     |
-| 10 | [Q-learning](/dl-notes/notes/lecture10/)      |       |
+| 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/)     |     |
+| 10 | [Deep RL: Q-learning](/dl-notes/notes/lecture10/)      |       |
 | 11 | [Generative adversarial nets](/dl-notes/notes/lecture011/)     |     |
 | 12 | [Meta-learning](/dl-notes/notes/lecture12/)      |       |
 | 13 | [Misc topics](.)      |       |
