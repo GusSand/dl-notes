@@ -4,9 +4,9 @@ layout: single
 author_profile: true
 ---
 
-| Week | Topic | Extra Reading |
+| Week | Topic | Exercises |
 | ---:         |     :------------------:      |          ---: |
-| 1 | [Introduction](/dl-notes/notes/lecture01/)     |     |
+| 1 | [Introduction](/dl-notes/notes/lecture01/)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb)   |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |       |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |     |
 | 4 | [Convnets](/dl-notes/notes/lecture04/)      |       |
