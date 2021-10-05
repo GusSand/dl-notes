@@ -8,7 +8,7 @@ author_profile: true
 | ---:         |     :------------------:      |          ---: |
 | 1 | [Introduction](/dl-notes/notes/lecture01/)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb)   |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |   [Backprop](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo2.ipynb)    |
-| 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |     |
+| 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/)      |       |
 | 5 | [Object detection](/dl-notes/notes/lecture05/)     |     |
 | 6 | [Recurrent networks](/dl-notes/notes/lecture06/)      |       |
