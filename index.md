@@ -10,7 +10,7 @@ author_profile: true
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |   [Backprop](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo2.ipynb)    |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/)      |  [Convolution](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo4.ipynb)     |
-| 5 | [Object detection](/dl-notes/notes/lecture05/)     |     |
+| 5 | [Object detection](/dl-notes/notes/lecture05/)     |   [ResNets](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo5.ipynb)  |
 | 6 | [Recurrent networks](/dl-notes/notes/lecture06/)      |       |
 | 7 | [Transformers](/dl-notes/notes/lecture07/)     |     |
 | 8 | [NLP applications](/dl-notes/notes/lecture08/)      |       |
