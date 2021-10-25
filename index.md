@@ -11,7 +11,7 @@ author_profile: true
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/)      |  [Convolution](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo4.ipynb)     |
 | 5 | [Object detection](/dl-notes/notes/lecture05/)     |   [ResNets](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo5.ipynb)  |
-| 6 | [Recurrent networks](/dl-notes/notes/lecture06/)      |       |
+| 6 | [Recurrent networks](/dl-notes/notes/lecture06/)      |   [RNN basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo6.ipynb)    |
 | 7 | [Transformers](/dl-notes/notes/lecture07/)     |     |
 | 8 | [NLP applications](/dl-notes/notes/lecture08/)      |       |
 | 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/)     |     |
