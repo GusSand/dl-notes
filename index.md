@@ -13,7 +13,7 @@ author_profile: true
 | 5 | [Object detection](/dl-notes/notes/lecture05/)     |   [ResNets](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo5.ipynb)  |
 | 6 | [Recurrent networks](/dl-notes/notes/lecture06/)      |   [RNN basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo6.ipynb)    |
 | 7 | [Transformers](/dl-notes/notes/lecture07/)     |  [Vision transformers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo7.ipynb)   |
-| 8 | [NLP applications](/dl-notes/notes/lecture08/)      |       |
+| 8 | [NLP applications](/dl-notes/notes/lecture08/)      |   [Intro to BERT](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo8.ipynb)    |
 | 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/)     |     |
 | 10 | [Deep RL: Q-learning](/dl-notes/notes/lecture10/)      |       |
 | 11 | [Generative adversarial nets](/dl-notes/notes/lecture011/)     |     |
