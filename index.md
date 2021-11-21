@@ -16,6 +16,6 @@ author_profile: true
 | 8 | [NLP applications](/dl-notes/notes/lecture08/)      |   [Intro to BERT](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo8.ipynb)    |
 | 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/)     |  [Policy gradients](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo9.ipynb)   |
 | 10 | [Deep RL: Q-learning](/dl-notes/notes/lecture10/)      |       |
-| 11 | [Generative adversarial nets](/dl-notes/notes/lecture11/)     |     |
-| 12 | [Meta-learning](/dl-notes/notes/lecture12/)      |       |
-| 13 | [Misc topics](.)      |       |
+| 11 | [Applications of Deep RL](/dl-notes/)     |     |
+| 12 | [Generative adversarial nets](/dl-notes/notes/lecture11/)     |       |
+| 13 | [Self-supervised learning](/dl-notes/notes/lecture12/)      |       |
