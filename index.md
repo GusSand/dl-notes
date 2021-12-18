@@ -4,9 +4,11 @@ layout: single
 author_profile: true
 ---
 
-| Week | Topic | Exercises |
+[*Notebook walkthroughs*](https://youtube.com/playlist?list=PLsgfjMUJAH1tBO2A7ikcdJfNaJDUY9o6H)
+
+| Week | Topic | Jupyter exercises |
 | ---:         |     :------------------:      |          ---: |
-| 1 | [Introduction](/dl-notes/notes/lecture01/)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb)   |
+| 1 | [Introduction](/dl-notes/notes/lecture01/)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb) [(Video)]  |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |   [Backprop](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo2.ipynb)    |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/)      |  [Convolution](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo4.ipynb)     |
