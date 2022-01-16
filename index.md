@@ -4,11 +4,11 @@ layout: single
 author_profile: true
 ---
 
-[*Notebook walkthroughs*](https://youtube.com/playlist?list=PLsgfjMUJAH1tBO2A7ikcdJfNaJDUY9o6H)
+[*Video walkthroughs of Jupyter notebooks*](https://youtube.com/playlist?list=PLsgfjMUJAH1tBO2A7ikcdJfNaJDUY9o6H)
 
-| Week | Topic | Jupyter exercises |
+| Week | Topic | Jupyter notebooks |
 | ---:         |     :------------------:      |          ---: |
-| 1 | [Introduction](/dl-notes/notes/lecture01/)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb) [(Video)]  |
+| 1 | [Introduction](/dl-notes/notes/lecture01/)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb) |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/)      |   [Backprop](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo2.ipynb)    |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/)     |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/)      |  [Convolution](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo4.ipynb)     |
@@ -20,4 +20,4 @@ author_profile: true
 | 10 | [Deep RL: Q-learning](/dl-notes/notes/lecture10/)      |  [Q-learning](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo10.ipynb)     |
 | 11 | [Applications of Deep RL](/dl-notes/notes/lecture11/)     |  -  |
 | 12 | [Generative adversarial nets](/dl-notes/notes/lecture12/)     |   [Conditional GANs](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo12.ipynb)    |
-| 13 | [Self-supervised learning](/dl-notes/notes/lecture13/)      |       |
+| 13 | [Self-supervised learning](/dl-notes/notes/lecture13/)      |   -    |
