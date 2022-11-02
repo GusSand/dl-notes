@@ -16,8 +16,8 @@ author_profile: true
 | 6 | [Recurrent networks](/dl-notes/notes/lecture06/) [(pdf)](/assets/files/lecture06_notes.pdf)     |   [RNN basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo6.ipynb)    |
 | 7 | [Transformers](/dl-notes/notes/lecture07/) [(pdf)](/assets/files/lecture07_notes.pdf)    |  [Vision transformers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo7.ipynb)   |
 | 8 | [NLP applications](/dl-notes/notes/lecture08/) [(pdf)](/assets/files/lecture08_notes.pdf)     |   [Intro to BERT](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo8.ipynb)    |
-| 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/)     |  [Policy gradients](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo9.ipynb)   |
+| 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/) [(pdf)](/assets/files/lecture09_notes.pdf)     |  [Policy gradients](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo9.ipynb)   |
 | 10 | [Deep RL: Q-learning](/dl-notes/notes/lecture10/)      |  [Q-learning](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo10.ipynb)     |
-| 11 | [Applications of Deep RL](/dl-notes/notes/lecture11/)     |  -  |
+| 11 | [Diffusion Models](/dl-notes/notes/lecture11/)     |  -  |
 | 12 | [Generative adversarial nets](/dl-notes/notes/lecture12/)     |   [Conditional GANs](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo12.ipynb)    |
 | 13 | [Self-supervised learning](/dl-notes/notes/lecture13/)      |   -    |
