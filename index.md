@@ -18,6 +18,6 @@ author_profile: true
 | 8 | [NLP applications](/dl-notes/notes/lecture08/) [(pdf)](/assets/files/lecture08_notes.pdf)     |   [Intro to BERT](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo8.ipynb)    |
 | 9 | [Deep RL: Policy gradients](/dl-notes/notes/lecture09/) [(pdf)](/assets/files/lecture09_notes.pdf)     |  [Policy gradients](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo9.ipynb)   |
 | 10 | [Deep RL: Q-learning](/dl-notes/notes/lecture10/)      |  [Q-learning](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo10.ipynb)     |
-| 11 | [Diffusion Models](/dl-notes/notes/lecture11/)     |  -  |
-| 12 | [Generative adversarial nets](/dl-notes/notes/lecture12/)     |   [Conditional GANs](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo12.ipynb)    |
+| 11 | [Generative adversarial nets](/dl-notes/notes/lecture12/)     |   [Conditional GANs](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo12.ipynb)    |
+| 12 | [Diffusion Models](/dl-notes/notes/lecture11/)     |  -  |
 | 13 | [Self-supervised learning](/dl-notes/notes/lecture13/)      |   -    |
