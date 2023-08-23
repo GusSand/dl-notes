@@ -8,7 +8,7 @@ author_profile: true
 
 | Week | Topic | Jupyter notebooks |
 | ---:         |     :------------------:      |          ---: |
-| 1 | [Introduction](/dl-notes/notes/lecture01/) [(pdf)](/assets/files/lecture01_notes.pdf)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb) |
+| 1 | [Introduction](/notes/lecture01/) [(pdf)](/assets/files/lecture01_notes.pdf)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo1.ipynb) |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/) [(pdf)](/assets/files/lecture02_notes.pdf)      |   [Backprop](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo2.ipynb)    |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/) [(pdf)](/assets/files/lecture03_notes.pdf)    |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/) [(pdf)](/assets/files/lecture04_notes.pdf)     |  [Convolution](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo4.ipynb)     |
