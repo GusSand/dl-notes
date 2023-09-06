@@ -95,14 +95,14 @@ analytics:
 author:
   name             : "Course Notes"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Spring 2021"
+  bio              : "Fall 2023"
   location         : "NYU Tandon"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "CH's website"
+    - label: "Gustavo's Website"
       icon: "fas fa-fw fa-link"
       url: "https://gussand.github.io/"
     - label: "Twitter"
