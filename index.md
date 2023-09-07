@@ -4,11 +4,13 @@ layout: single
 author_profile: true
 ---
 
+Content borrowed with permission from Chinmay Hegde's Great [Deep Learning Class](https://chinmayhegde.github.io/. All the good parts are his, all the mistakes are mine.
+
 [*Video walkthroughs of Jupyter notebooks*](https://youtube.com/playlist?list=PLsgfjMUJAH1tBO2A7ikcdJfNaJDUY9o6H)
 
 | Week | Topic | Jupyter notebooks |
 | ---:         |     :------------------:      |          ---: |
-| 1 | [Introduction](/notes/lecture01/) [(pdf)](/assets/files/lecture01_notes.pdf)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/demo01-basics.ipynb) |
+| 1 | [Introduction](/dl-notes/notes/lecture01/) [(pdf)](/assets/files/lecture01_notes.pdf)     |  [Pytorch basics](https://github.com/chinmayhegde/dl-demos/blob/main/demo01-basics.ipynb) |
 | 2 | [Neural networks](/dl-notes/notes/lecture02/) [(pdf)](/assets/files/lecture02_notes.pdf)      |   [Backprop](https://github.com/chinmayhegde/dl-demos/blob/main/demo02-autodiff.ipynb)    |
 | 3 | [Deep neural networks](/dl-notes/notes/lecture03/) [(pdf)](/assets/files/lecture03_notes.pdf)    |  [Optimizers](https://github.com/chinmayhegde/dl-demos/blob/main/dl_demo3.ipynb)   |
 | 4 | [Convnets](/dl-notes/notes/lecture04/) [(pdf)](/assets/files/lecture04_notes.pdf)     |  [Convolution](https://github.com/chinmayhegde/dl-demos/blob/main/demo04-convolution.ipynb)     |
