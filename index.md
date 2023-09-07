@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Content borrowed with permission from Chinmay Hegde's Great [Deep Learning Class](https://chinmayhegde.github.io/. All the good parts are his, all the mistakes are mine.
+Content borrowed with permission from Chinmay Hegde's Great [Deep Learning Class](https://chinmayhegde.github.io/). All the good parts are his, all the mistakes are mine.
 
 [*Video walkthroughs of Jupyter notebooks*](https://youtube.com/playlist?list=PLsgfjMUJAH1tBO2A7ikcdJfNaJDUY9o6H)
 
